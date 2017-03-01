@@ -24,7 +24,7 @@ Also, every plugins & dependencies also should have the same-->
    
    <!--adding pdf plugin from maven plugins online & to create pdf file of project-->
    
-<build>
+<!--build>
 			<plugins>
 				<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -44,6 +44,6 @@ Also, every plugins & dependencies also should have the same-->
 				</executions>
 				</plugin>
 		</plugins>
-</build>
+</build-->
  </project>
  
