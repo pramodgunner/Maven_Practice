@@ -14,13 +14,13 @@ Also, every plugins & dependencies also should have the same-->
   <!--adding dependency "junit" as we have this dependency in HW java file at test dir. So, we have to copy/paste the dependency from central repository
   & place into pom.xml-->
    
-   <dependencies>
+   <!--dependencies>
 		<dependency>
 		<groupId>junit</groupId>
 		<artifactId>junit</artifactId>
 		<version>4.9</version>
 		</dependency>
-   </dependencies>
+   </dependencies-->
    
    <!--adding pdf plugin from maven plugins online & to create pdf file of project-->
    
